@@ -1,2 +1,2 @@
 ths is from alamshoaib134
-DBX_TOKEN = dapi7bbfd197b90690d4bbcee9
+DBX_TOKEN = EAACEdEose0cBAdapi7bbfd197b90690d4b
